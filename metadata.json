@@ -1,0 +1,6 @@
+{
+  "name": "Scholar Chatbot",
+  "description": "An elegant AI Study Helper optimized with a liquid glass system for lecture explanations, document summarization, and interactive learning quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
